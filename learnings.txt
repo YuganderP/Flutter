@@ -1,0 +1,23 @@
+3/4/2024
+Day 1 : 
+Flutter Development : 
+
+To develop  cross platform applications (for android  / ios ) 
+Ui Framework  
+
+Single code base - > machine code ( done by flutter tools ) 
+Flutter uses Dart programming language 
+Framework : collection of packages and utility functions 
+Dart programming language developed by google. 
+Target platforms : mobile apps ( ios and android ) web apps, Desktops. 
+ Flutter installation: 
+		Download flutter SDK 
+		Download GIT 
+		Platform tools ( android studio, xcode ) 
+		Emulators.
+
+
+To create a flutter project 
+
+
+# flutter create project_name
